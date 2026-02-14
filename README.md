@@ -465,7 +465,7 @@ This project is developed as part of the IDSCC 5 course at the National School o
 
 <div align="center">
 
-**Made with ❤️ by Toufali Oumaima — IDSCC , ENSAO**
+**Made with ❤️ by Salima Qritel — IDSCC , ENSAO**
 
 </div>
 
